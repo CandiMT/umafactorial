@@ -1,0 +1,158 @@
+cd Desktop/
+cd repositorio/
+init repositorio
+git init
+git config user.name CandiMT
+git config user.email candimacerastorres@gmail.com
+git config --list
+git add readme.txt
+git status
+echo "holahola.txt
+git.status
+git status
+git add .
+git status
+git comit
+git comit -m "practica clase"
+git commit -m "practica clase"
+git add .
+git sutatus
+git status
+git add hola.txt
+git add a.txt
+git status
+git commit a
+git commit a.txt
+cd Desktop/
+cd repositorio/
+git add Readme
+git add hola.txt
+git add hola.txt
+cd Desktop/
+cd repositorio/
+git init
+git add readme.txt
+git add readme.txt
+got commit -m "prueba"
+git commit -m "prueba"
+git user.email candimacerastorres@gmail.com
+git config user.name CandiMT
+git config user.email candimacerastorres@gmail.com
+git commit -m "prueba"
+git remote add origin https://github.com/CandiMT/repositorio.git
+git remote -v
+git push -u origin main
+branch -M main
+git add README.md
+commit -m "prueba 2"
+commit -m "prueba 2"
+git push -u origin main
+git remote -v
+git push -u origin main
+git remote add origin git@github.com:CandiMT/repositorio.git
+git branch -M main
+git push -u origin main
+/cd eclipse-workspace
+cd eclipse-workspace/
+cd Users/
+cd User/
+cd Desktop/
+cd holaMundo/
+git clone git@github.com:CandiMT/holaMundo.git
+dc Desktop/
+cd Desktop/
+cd ISA/factorial/
+git clone https://github.com/CandiMT/umafactorial.git
+git status
+cd umafactorial/
+git status
+add factorial.java
+git add factorial.java
+git add factorial.java
+git status
+git commit -m "implementacion inicial"
+git config user.name CandiMT
+git config user.email candimacerastorres@gmail.com
+git commit -m "implementacion inicial"
+git commit -m "refatorizacion"
+git commit -m "refatorizacion2"
+git commit -m "refatorizacion"
+git push origin main
+git checkout -b recursivo
+git commit -m "implementacion recursiva"
+git push recursivo
+git push origin recursivo
+git push origin recursivo
+git stauts
+git status
+git commit -m "implementacion recursiva"
+git status
+git push origin recursivo
+git config user.name "CandiMT"
+cd Desktop/ISA
+git config user.name "CandiMT"
+git clone https://github.com/CandiMT/umafactorial.git
+git config user.name "CandiMT"
+cd umafactorial/
+git config user.name "CandiMT"
+git config user.email candimacerastorres@gmail.com
+git add factorial.java
+git commit -m "implementacion inicial"
+git status
+git commit -m "refactorizacion"
+git push origin main
+git status
+git commit -a "refactorizacion"
+git commit -m "refactorizacion"
+git status
+git push origin main
+git commit -m "refactorizacion2"
+git push origin main
+git status
+git add factorial.java
+git commit -m "refactorizacion"
+git status
+git push origin main
+git checkout -b recursivo
+git commit -m "implementacion recursiva"
+git add factorial.java
+git commit -m "implementacion recursiva"
+git push origin recursivo
+git checkout main
+git commit -m "correccion numeros negativos"
+git add factorial.java
+git commit -m "correccion numeros negativos"
+git status
+git push origin main
+git checkout recursivo
+git add factorial.java
+git commit -m "optimizacion"
+git push origin recursivo
+git checkout main
+git merge recursivo
+git status
+git push origin main
+git checkout -b refacIO
+git status
+git add factorial.java
+git commit -m "refactorizacion de metodo de dentrada"
+git add factorial.java
+git commit -m "refactorizacion de metodo de dentrada"
+git stash
+git checkout main
+git status
+git add factorial.java
+git commit -m "cambio de long a BigInteger"
+git push origin main
+git checkout refacIO
+git status
+git stash pop
+git add factorial.java
+git stash pop
+git commit -m "refactorizacion de metodo de salida"
+git checkout main
+git merge refacIO
+git status
+git add factorial.java
+git commit -m "mezcla de rama refacIO"
+git push origin main
